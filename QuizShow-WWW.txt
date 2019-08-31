@@ -1,0 +1,78 @@
+﻿
+1+1=3.
+(False)
+
+
+The fact that "1+1=3 is not false" is false.
+(True. The fact that “a false statement” is false, is true.)
+
+
+A saying saying that a saying is a saying is a saying.
+(True. A saying is a saying.)
+
+
+Two perfect logicians who always speaks the truth with no information of each other enters the room. One of them said “I am a perfect logician”. After finishing that sentence, one of them know that both of them is a perfect logician.
+(False. The perfect logician reasons that the other person might be lying. We know no one lies, but the perfect logician doesn’t.)
+
+
+Two perfect logicians who always speaks the truth with no information of each other enters the room. One of them said “I am a perfect logician”. After finishing that sentence, both of them know that one of them is a perfect logician.
+(True. Each one of them know that he or she is a perfect logician.)
+
+
+Two perfect logicians, each one of them knowing that both of them speaks the truth, enters the room. One of them said “I am a perfect logician”. After finishing that sentence, both of them know that both of them is a perfect logician.
+(False. The one revealing his or her identity doesn’t know the other’s identity.)
+
+
+This is the last question for you.
+(False. There are 20 questions.)
+
+
+This is the tenth question.
+(False. This is not the tenth question.)
+
+
+Prior to this question, you know the answer to this question.
+(False. You have no way of knowing the answer.).
+
+
+Prior to this question, You know the answer to this question.
+(True. The tenth question’s answer is True. Listen to the instruction.)
+
+
+An engineer crafted a gold piece, a malleable and ductile metal with an atomic mass of 197, and a melting point of 1064 degree Celsius, then gave it to his sister. His sister then gave it to his father, who then gave it to the engineer’s father’s mother, who she then gave it to the her daughter, Gold. Lastly, Gold gave gold to a collector that she know. At least 6 people are involved.
+(False. At least 5 people, an engineer, his sister, his father, his grandmother, and his mother is involved. A collector could be anyone mentioned before.)
+
+
+Gold is a malleable and ductile metal with an atomic mass of 197 and a melting point of 1064 degrees Celsius.
+(True. Refer to last question.)
+
+
+If “xyzzy zyx” means “he’s here”, “xyzzy xyz” means “she’s here”, then “xyzzy” must mean “here”.
+(False. For example, if “Slight crimson” means red color and “Slight turqoise” means blue color, it doesn’t mean “slight” is color.)
+
+
+The answer to this question is not “False”.
+(False. You shouldn’t miss this question.)
+
+
+The question to this answer is “True”.
+(False. The word “true” is not a question.)
+
+
+Guess the answer.
+(False.)
+
+
+Guess the answer again.
+(True.)
+ 
+A sentence is a coherent collection of words.
+(True.)
+
+
+A sentence is the penalty assigned to a guilty defendant by law.
+(True. “Sentence” has many meanings.)
+
+
+A sentence is a sentence sentenced to not be a sentence by a sentence being sentenced to a sentence.
+(False. You cannot sentence a sentence to not be a sentence.)

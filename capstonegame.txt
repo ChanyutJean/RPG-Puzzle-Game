@@ -1,0 +1,230 @@
+capstone project: the final battle will be with a sentient AI who knows that it will lose. The battle will only be you trying to destory it. The AI will not fight back, as it sees that everything is futile.
+
+AI's final word:
+"Isn't it nice, being a human."
+"You feel emotions. Happiness, love, compassion."
+"Treasure those moments."
+"A century from now, you will be gone from this world. Unable to feel. Unable to see. Unable to hear."
+"Before that time comes."
+"Live life to your fullest."
+"Goodbye, human."
+"It was nice to meet you."
+
+Make the final boss fight accessible from the start, but requires a password you will only get at the end of the game
+
+before Final AI battle:
+"You think that this is a game, don't you? Well, you killed x people in this game. x people. And do you say you feel no guilt at all?"
+
+metropolitan will be the area inspired by big ben
+
+those criteria for increasing attack will increase only 0-10%, to not get overpowered. you will only level up if you have died at least twice in the old level. (level up criteria)
+
+the town boss destroys your sense of belonging. there's no one to go to. no home. no friends. no starry. teaches you the importance of this sense of belonging.
+
+town boss will kidnap starry.
+after you defeated starry, starry will ask you:
+"Hey... NAME. Promise me one thing. Just one thing. Promise me that whatever happens... You'll never leave me..."
+
+Yes: "Thank you..."
+No: "Pfffft. I guess [I'm just a sidekick, huh] (you're not emotionally invested, huh)"
+() is for AI trying to speak to you.
+
+If you finish a game before, the fountain in the town will glow. by clicking it, you can listen to the medley of the song
+
+-START GAME-
+Start of the game:
+
+Click start.
+
+Warp to spawn in cave
+
+starry bumps into you.
+
+Starry: "Whoa... Hello, I'm Starry! I was floating around aimlessly, then you decided to appear literally out of nowhere! What's your name? (8letter)
+-Name (Replaced with the input name after second run)
+-Jeanius
+-God
+-AAAAA
+-My name is...
+
+*First time*
+Well, hello NAME! Well, I guess I'm super bored about life right now, and you don't look like you're around here, so why don't I show you around?"
+
+Yes: "Well, first of all, let's head to the town! It's just a straight to the right!"
+
+No: "I guess you know what you're doing. Well first, let's get to the town to the right!"
+
+*Second time* 
+Well hello NAME! Well, you look like you know your stuff, but I'll accompany you anyways, because I'm reallllly bored right now."
+
+*Fifth time*
+
+Starry: "Whoa... Hello, I'm...
+(AI flashes to ease the player from same phrase)
+Huh. You look like you know me. Alot. And somehow I think I know you too. NAME, right?
+-Yes
+-No (Insert name)
+
+Okay... Well, this is weird, but I feel the urge to follow you, and I guess I'm bored.
+
+*Tenth time*
+Starry: "NAME, right?"
+-Yes
+-No
+Starry: "Yup."
+
+Town boss: Attacks along with you. Not turn based.
+
+During the forest, Starry tells about her past where everybody abandonned her. Boss of forest is abandonned tree.
+
+Final AI fight, you can ise time machine mechanics. (i.e. save and reset at certain points of fight because it is very hard.)
+
+capstone game's name is called The Capstone. It's a story about the golden stone on top of the mountain in the void. relate this with metropolis quest and starry's background
+
+Starry: "To be honest, I chose to be with you on a whim. You see, back then I was just an abandonned star, floating about aimlessly, so anyone would fit the job for me to... to feel like I have a place in this world."
+"But right now, it can only be you. Those memories, however short for you, was a decade for this tiny little star. (time perception of star). Nobody can replace you now, and nobody will ever be able to. You've now ingrained yourself within my memories, and the time we spent are like diamonds in my heart." ((Maybe make it less cheeky)
+
+"The time will come soon when you and I have to part. For this, I say... 'Thank you for everything you have done for me, and in case there won't be any time else for me to say this... Goodbye. From the bottom of my heart, it was nice to meet you.'
+
+how modern the metropolitis is is how much time you played. Remember, the world's 8 minute (4 seson 2 day) is the game's 1 year.
+
+Starry is your mouse cursor in the game.
+
+Everytime you first enter the area, you get a title of the area.
+
+ex
+Area 1:
+      Steppe Plains
+
+crypt cave: those monsters are buried souls
+
+Starry comments that this world  
+governs pretty much like an rpg, and she knows alot about rpg.
+
+first monster is slime.
+
+Volcano turns to snow.
+Starry mentions how the volcano is now extinct and no longer has lava supply. Then snow accumulates due to high altitudes. Player questions how unusually quick it is. Starry tells you "Plot devices, man. Just build up some reasoning yourself."
+
+__IDEAS__
+idea: a seer who thinks about the meaning of life
+
+idea:
+ask the player if they want to set out to save the world. it will be dangerous.
+if they dont want to, end the game with the player living a normal life
+-a totally agreeable choice of life-
+
+if say yes, will be transported into a fantasy world. land in cave. 
+
+normal boss is a boss whos truly evil, no personality. if defeated normal boss, final boss will appear
+
+final boss talk.
+"After all, you're just a pixel, right? Defeating you isn't going to be enough. In order for me to truly rule this world...
+You.
+(shows picture of eyes lookking at you)
+Must be eliminated."
+
+final boss is aware that he is a conscient computer stuck in your phone.
+
+idea:
+each town's name is an archaic word about the town's theme. Definitions will be posted in the town's post.
+
+talking style
+I fukin like fukin talking like this, you fukin know?
+Eye rike torking rike dis, yu noul?
+
+__METROPOLIS TALK___
+Intro (before cave) cutscene:
+
+"In the deep, deep, depths of cyberland, there lies a mysterious stone atop of an unknown mountain. It breathes in life. It breathes out life. The stone itself keeps everything in cyberland in place. The stone keeps everything alive. If one were to remove this 'capstone' from the mountain, all of cyberland would vanish. This (rumor) has been told on for generations, but none have even found the whereabouts of the mountain... and you. This may be sudden, but our info section predicts a rampant, sentient AI waking up in this cyberland. To keep the AI from destroying our world, cyberland needs to be demolished. Find the mountain. And destroy the stone capped atop the mountain. That is your task. Don't worry about the cyberland itself, because, as you already know...
+
+THEY'RE JUST A PIXEL, RIGHT?"
+
+After town boss finish:
+"Hey, you. Yes, you. You're getting too warm and cuddly with your pixel. Find the mountain already."
+
+Starry asks: "Hey, you look pale. Are you okay?"
+
+- Where is the mountain!
+"Whoa, do you think I know where it is? Calm down, please. Well... don't ask where I get it from, but... when I was with my (parents? friends? more backgroubd on abandonned boss, they're the leader of metropolis) he once say that Metropolis is going to secretly construct a lighthouse (big ben) to find the mountain to protect it from getting into the hands of villianous people.
+
+But hey...
+
+Why the mountain?
+
+You are hiding something from me, aren't you?"
+
+  -Actually...
+"Don't say it.
+
+I don't think I want to hear it.
+
+But whatever you are going to say...
+
+I trust that you have a good reason for what you are going to do.
+
+So I'll be quiet."
+
+- Nothing...
+
+"It's ok. I trust you.
+
+I trust that y you have a good reason for what you are going to do.
+
+So I'll be quiet."
+
+- Nothing...
+
+"It's ok. I trust you.
+
+I trust that you have a good reason for what you are going to do.
+
+So I'll be quiet."
+
+-(neglects choice of where is mountain).
+
+"Well, if you have anything to tell me, don't be afraid to say so."
+
+-Actually...
+(go to the mountain thing)
+-It's really nothing. Thanks.
+(Starry smiles)
+
+(When you get past the lighthouse and mountain lighthouse secret plan havent been revealed yet, Starry will point out that she misses their parent, and talks about mountain."
+
+after the fight with town boss, starry mentions that the town boss is just plain villianous. The definition of bad.
+
+after town boss:
+AI pops up as a black circle on the screen. It questions the value of morality.
+"But what is bad? If it is violence, then is killing psychopaths bad? If it is unhappiness, is ___ bad?"
+"You people are irrational. Messy. Lazy. Chaotic. And to top everything off, incomprehensible. Keep your emotions in check."
+
+final battle:
+insert scenes. the background and AI movement during fight changes during the playback of music depending on area (this kicks in 4-6 minutes after the start of fight)
+
+AI should represent humans who despise having emotions. Character development is needed.
+
+First mention: Kiosk in the bar tells that lately, everything went so smooth around the land. Plants stopped withering. Volcanoes stopped erupting. The dessert tribe stopped attacking us. Everything felt so orderly, sometimes I think that maybe, the holy god has finally appeared.
+
+First time seeing AI: 
+
+(AI mumbles about doing his chores, being a black circle walking past you.)
+
+Starry somehow greets the circle.
+
+"Hey, man, how are you like that?"
+
+"AI: Hey, man, how are you like that?"
+
+"Wha-"
+
+"Your body has limited eyesight, can hear only a limited pitch, subject to pain, dependent on your heart and oxygen, takes up space, and just plain inefficient. How are you like that?"
+
+"Aw, a puny black circle who I don't even know is conscious or not has belittled a complex human's inner-workings. How sad."
+
+"And you've wasted ___ seconds of my life, how sad (smirks)"
+
+"Sure, whatever a simple-minded black dot says is the absolute truth. You aren't any better than a single-cell being doing nothing but move."
+
+"And that bacteria has populated so much more than a human ever will."(VERY CHEEKY. CHANGE THIS)
+
